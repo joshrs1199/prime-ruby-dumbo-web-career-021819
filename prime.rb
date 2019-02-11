@@ -10,4 +10,3 @@ def prime?(number)
 end
 return true
 end
-
